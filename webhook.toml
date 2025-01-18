@@ -10,7 +10,7 @@
 # global parameters
 [global_params]
 # The base URL of the server to send the data to, the server must be able to receive POST requests
-base_url = "http://127.0.0.1:5300"
+base_url = "http://192.168.1.8:5300"
 # Whether the webhook is enabled
 enabled = true
 
